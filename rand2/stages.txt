@@ -1,0 +1,9 @@
+Baseline | 12
+Test 1 | 50
+Test 2 | 50
+Train S1 | 250
+Test 1 | 50
+Test 2 | 50
+Sleep | 2000
+Test 1 | 50
+Test 2 | 50
