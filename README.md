@@ -122,8 +122,8 @@ This runs the simulation sequentially in `rand2` through `rand7`.
 
 In order to run the model with different indexing protocols, please adjust the following variables in `main.cpp`:
 
-- DUt: `stimType = 1` and dtime = `0`
-- Mid-UP: `stimType = 1` and dtime = `200`
-- UDt: `stimType = 2` and dtime = `0`
+- DUt: `stimType = 1` and `dtime = 0`
+- Mid-UP: `stimType = 1` and `dtime = 200`
+- UDt: `stimType = 2` and `dtime = 0`
 
 
