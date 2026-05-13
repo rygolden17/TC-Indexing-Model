@@ -3,7 +3,7 @@
 Repository for the Thalamocortical model used in the paper "Interleaved Replay of Novel and Familiar Memory Traces During Slow-Wave Sleep Prevents Catastrophic Forgetting."
 
 Thalamocortical Model
-Copyright 2026 [Ryan Golden / UCSD]
+Copyright 2026 Ryan Golden et al. / UCSD
 
 This product is licensed under the Apache License, Version 2.0.
 
